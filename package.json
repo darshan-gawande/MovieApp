@@ -1,0 +1,21 @@
+{
+  "name": "movieapp",
+  "version": "1.0.0",
+  "description": "We search movie by name",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "test": "jest"
+  },
+  "keywords": [
+    "javascript",
+    "tailwind",
+    "fullstack",
+    "Backend"
+  ],
+  "author": "Darshan",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
